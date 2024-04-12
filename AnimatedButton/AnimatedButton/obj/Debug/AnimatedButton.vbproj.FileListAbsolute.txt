@@ -1,0 +1,17 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\bin\Debug\AnimatedButton.xml
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.vbproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\MainWindow.g.vb
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\Application.g.vb
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.vbproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.vbproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.xml
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\AnimatedButton.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\AnimatedButton\AnimatedButton\obj\Debug\Application.baml

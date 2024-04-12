@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\animatedbutton\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|solutionrelative:animatedbutton\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\animatedbutton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|solutionrelative:animatedbutton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\animatedbutton\\animatedbutton\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1544AD8D-32F9-4F60-9352-B79490825596}|AnimatedButton\\AnimatedButton.vbproj|solutionrelative:animatedbutton\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\Application.xaml",
+              "RelativeDocumentMoniker": "AnimatedButton\\Application.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\Application.xaml",
+              "RelativeToolTip": "AnimatedButton\\Application.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T09:41:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AnimatedButton\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\MainWindow.xaml",
+              "RelativeToolTip": "AnimatedButton\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T09:30:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "AnimatedButton\\MainWindow.xaml.vb",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\AnimatedButton\\AnimatedButton\\MainWindow.xaml.vb",
+              "RelativeToolTip": "AnimatedButton\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-12T09:30:46.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
