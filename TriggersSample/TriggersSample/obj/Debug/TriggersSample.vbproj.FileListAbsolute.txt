@@ -1,0 +1,16 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\bin\Debug\TriggersSample.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\bin\Debug\TriggersSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\bin\Debug\TriggersSample.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\bin\Debug\TriggersSample.xml
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.vbproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\MainWindow.g.vb
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\Application.g.vb
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.vbproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.vbproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.xml
+D:\учеба\3 курс 2 семестр\візуал програмування\TriggersSample\TriggersSample\obj\Debug\TriggersSample.pdb

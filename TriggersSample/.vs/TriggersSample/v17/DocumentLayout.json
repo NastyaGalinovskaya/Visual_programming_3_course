@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB382F-A517-4E92-B85A-BC3669382B06}|TriggersSample\\TriggersSample.vbproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\triggerssample\\triggerssample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04DB382F-A517-4E92-B85A-BC3669382B06}|TriggersSample\\TriggersSample.vbproj|solutionrelative:triggerssample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB382F-A517-4E92-B85A-BC3669382B06}|TriggersSample\\TriggersSample.vbproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\triggerssample\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04DB382F-A517-4E92-B85A-BC3669382B06}|TriggersSample\\TriggersSample.vbproj|solutionrelative:triggerssample\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\TriggersSample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TriggersSample\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\TriggersSample\\MainWindow.xaml",
+              "RelativeToolTip": "TriggersSample\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T07:08:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\TriggersSample\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "TriggersSample\\MainWindow.xaml.vb",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\TriggersSample\\TriggersSample\\MainWindow.xaml.vb",
+              "RelativeToolTip": "TriggersSample\\MainWindow.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T07:08:36.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
