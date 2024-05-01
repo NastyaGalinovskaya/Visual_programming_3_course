@@ -1,0 +1,14 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.csproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MainWindow.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\App.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.Properties.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.csproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
