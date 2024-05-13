@@ -1,0 +1,14 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\bin\Debug\TabControlSample.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\bin\Debug\TabControlSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\bin\Debug\TabControlSample.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.csproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\MainWindow.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\App.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.Properties.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.csproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\TabControlSample\TabControlSample\obj\Debug\TabControlSample.pdb
