@@ -1,0 +1,17 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\bin\Debug\UserControlXAML2.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\bin\Debug\UserControlXAML2.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\bin\Debug\UserControlXAML2.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.csproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\MainWindow.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\App.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2_MarkupCompile.lref
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\Themes\Generic.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.Properties.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.csproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\UserControlXAML2\UserControlXAML2\obj\Debug\UserControlXAML2.pdb

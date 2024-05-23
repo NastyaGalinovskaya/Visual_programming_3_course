@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\usercontrolxaml\\usercontrolxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|solutionrelative:usercontrolxaml\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\usercontrolxaml\\myusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|solutionrelative:usercontrolxaml\\myusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\usercontrolxaml\\myusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|solutionrelative:usercontrolxaml\\myusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\usercontrolxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8876B00-0382-43DE-9EDA-640145A84AB0}|UserControlXAML\\UserControlXAML.csproj|solutionrelative:usercontrolxaml\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyUserControl.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MyUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "UserControlXAML\\MyUserControl.xaml.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MyUserControl.xaml.cs",
+              "RelativeToolTip": "UserControlXAML\\MyUserControl.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:56:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyUserControl.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MyUserControl.xaml",
+              "RelativeDocumentMoniker": "UserControlXAML\\MyUserControl.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MyUserControl.xaml",
+              "RelativeToolTip": "UserControlXAML\\MyUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:56:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UserControlXAML\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MainWindow.xaml",
+              "RelativeToolTip": "UserControlXAML\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:56:05.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserControlXAML\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0432\u0456\u0437\u0443\u0430\u043B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\UserControlXAML\\UserControlXAML\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UserControlXAML\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:56:05.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
