@@ -1,0 +1,14 @@
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\bin\Debug\lab6.exe.config
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\bin\Debug\lab6.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\bin\Debug\lab6.pdb
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\MainWindow.baml
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\MainWindow.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\App.g.cs
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6_MarkupCompile.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.g.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.exe
+D:\учеба\3 курс 2 семестр\візуал програмування\lab6\lab6\obj\Debug\lab6.pdb
